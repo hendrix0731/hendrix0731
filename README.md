@@ -1,11 +1,12 @@
 ![logo](https://github.com/hendrix0731/hendrix0731/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Harsh joshi</h1>
 
+
 <h3 align="center">Hi there, I'm Harsh 👋 Aspiring Software Developer and Video Editor with a passion for creating seamless digital experiences and compelling visual stories. 💻 Software Development: Currently honing my skills in various programming languages and frameworks including Python and C++. Enthusiastic about contributing to open-source projects and collaborating with other developers to solve real-world problems. Strong foundation in web development, data structures, and algorithms. 🎬 Video Editing: Skilled in using tools like Adobe Premiere Pro and Final Cut Pro to create engaging and professional video content. Experience in editing promotional videos, tutorials, and short films. Keen eye for detail and a deep understanding of visual storytelling. 🌱 Always Learning: Continuously expanding my knowledge through online courses, coding bootcamps, and hands-on projects. Actively participating in developer communities to stay up-to-date with the latest trends and technologies.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendrix0731" alt="hendrix0731" /></a> </p>
-
+<img align="right" alt="editing" width="240" height="200"src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
 - 🌱 I’m currently learning **Flutter,nord.js**
 
 - 📫 How to reach me **Send a phoenix if you're feeling medieval, but I'm okay with Email.**
