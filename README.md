@@ -33,9 +33,6 @@ I love blending technology and logic to build next-gen applications powered by *
 </p>
 <div style="margin-top: 20px;"></div>
 
-<p align="right">
-  <img alt="coding" width="250" height="200" src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
-</p>
 
 ---
 
@@ -45,7 +42,9 @@ Exploring **Autonomous AI Agents**, **Vector Databases**, and **multi-modal LLM 
 📫 **How to reach me:**  
 Send a phoenix if you're feeling medieval — but **Email works best!** 😄  
 📧 **harsh.joshi.m07@gmail.com**
-
+<p align="right">
+  <img alt="coding" width="250" height="200" src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
+</p>
 ---
 
 ### 🌐 Connect with Me  
