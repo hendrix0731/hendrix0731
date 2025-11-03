@@ -2,7 +2,15 @@
 <h1 align="center">Hi 👋, I'm Harsh joshi</h1>
 
 
-<h3 align="center">Hi there, I'm Harsh 👋 Aspiring Software Developer and Video Editor with a passion for creating seamless digital experiences and compelling visual stories. 💻 Software Development: Currently honing my skills in various programming languages and frameworks including Python and C++. Enthusiastic about contributing to open-source projects and collaborating with other developers to solve real-world problems. Strong foundation in web development, data structures, and algorithms. 🎬 Video Editing: Skilled in using tools like Adobe Premiere Pro and Final Cut Pro to create engaging and professional video content. Experience in editing promotional videos, tutorials, and short films. Keen eye for detail and a deep understanding of visual storytelling. 🌱 Always Learning: Continuously expanding my knowledge through online courses, coding bootcamps, and hands-on projects. Actively participating in developer communities to stay up-to-date with the latest trends and technologies.</h3>
+<h3 align="center">Hi there, I'm Harsh 👋
+
+🤖 AI/ML & Generative AI Developer with a passion for building intelligent systems that think, reason, and act autonomously.
+
+💻 AI Development: Skilled in LangChain, LangGraph, PyTorch, TensorFlow (Keras), and Hugging Face, I create real-world applications powered by LLMs, RAG pipelines, and Agentic AI workflows. My projects — like ReAct-Agent-Hub and Agentic AI Chatbot — showcase how I blend reasoning, automation, and context-awareness into dynamic, production-ready systems.
+
+⚙️ Tech Stack: Python · C++ · LangChain · LangGraph · TensorFlow · PyTorch · Hugging Face · Streamlit · API Integration
+
+🌱 Always Exploring: Continuously learning and experimenting with new AI frameworks, vector databases, and orchestration tools to make machines more adaptive and human-aware. I believe in learning by building — one project at a time.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendrix0731" alt="hendrix0731" /></a> </p>
