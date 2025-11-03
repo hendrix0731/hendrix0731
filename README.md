@@ -1,33 +1,77 @@
 ![logo](https://github.com/hendrix0731/hendrix0731/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Harsh joshi</h1>
+<h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
 
+<h3 align="center">
+🤖 AI/ML & Generative AI Developer | Agentic AI Innovator | LangChain & LangGraph Enthusiast
+</h3>
 
-<h3 align="center">Hi there, I'm Harsh 👋
+<h3 align="center">
+I’m an AI/ML developer passionate about creating intelligent systems that **think, reason, and act autonomously**.  
+I love blending technology and logic to build next-gen applications powered by **LLMs**, **RAG pipelines**, and **Agentic AI workflows**.
+</h3>
 
-🤖 AI/ML & Generative AI Developer with a passion for building intelligent systems that think, reason, and act autonomously.
+---
 
-💻 AI Development: Skilled in LangChain, LangGraph, PyTorch, TensorFlow (Keras), and Hugging Face, I create real-world applications powered by LLMs, RAG pipelines, and Agentic AI workflows. My projects — like ReAct-Agent-Hub and Agentic AI Chatbot — showcase how I blend reasoning, automation, and context-awareness into dynamic, production-ready systems.
+### 💻 About Me  
+🎓 Final-year **B.Tech CSE (JECRC University, 2025)** student passionate about **AI innovation and automation**.  
+🧠 Experienced in **LangChain, LangGraph, PyTorch, TensorFlow (Keras), and Hugging Face**, with strong command over **Python** and **C++**.  
+🚀 I’ve built projects like **ReAct-Agent-Hub**, **Agentic AI Chatbot**, and **GPT-2 Text Generation**, focusing on real-world **LLM orchestration** and **workflow automation**.  
+🔍 Skilled in integrating **vector databases**, **RAG pipelines**, and **context-aware retrieval systems** to make AI more adaptive and human-like.  
+🌱 Currently exploring **Agentic AI architectures**, **tool orchestration**, and **autonomous reasoning systems**.  
 
-⚙️ Tech Stack: Python · C++ · LangChain · LangGraph · TensorFlow · PyTorch · Hugging Face · Streamlit · API Integration
+---
 
-🌱 Always Exploring: Continuously learning and experimenting with new AI frameworks, vector databases, and orchestration tools to make machines more adaptive and human-aware. I believe in learning by building — one project at a time.</h3>
+### ⚙️ Tech Stack  
+`Python` · `C++` · `LangChain` · `LangGraph` · `TensorFlow (Keras)` · `PyTorch` · `Hugging Face` · `Streamlit` · `API Integration` · `MySQL` · `Git`  
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendrix0731" alt="hendrix0731" /></a> </p>
-<img align="right" alt="editing" width="240" height="200"src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
-- 🌱 I’m currently learning **Flutter,nord.js**
-
-- 📫 How to reach me **Send a phoenix if you're feeling medieval, but I'm okay with Email.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hendrix07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hendrix07" height="30" width="40" /></a>
-<a href="https://instagram.com/the_hendrix_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_hendrix_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harsh joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh joshi" height="30" width="40" /></a>
-<a href="https://discord.gg/whiteghost8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whiteghost8252" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hendrix0731&theme=onestar&margin-w=10&margin-h=10&no-frame=true" alt="hendrix0731 trophies" />
+  </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="250" height="200" src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hendrix0731&show_icons=true&locale=en" alt="hendrix0731" /></p>
+---
+
+### 📚 Currently Learning  
+Exploring **Autonomous AI Agents**, **Vector Databases**, and **multi-modal LLM frameworks** to enhance contextual reasoning and decision-making in real time.  
+
+📫 **How to reach me:**  
+Send a phoenix if you're feeling medieval — but **Email works best!** 😄  
+📧 **harsh.joshi.m07@gmail.com**
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/hendrix07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/the_hendrix_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harsh joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://discord.gg/whiteghost8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🧩 Languages and Tools  
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://langchain.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hendrix0731&show_icons=true&locale=en&theme=tokyonight" alt="hendrix0731 stats" />
+</p>
