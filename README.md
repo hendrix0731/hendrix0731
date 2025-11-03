@@ -35,13 +35,16 @@ I love blending technology and logic to build next-gen applications powered by *
 
 
 ---
-
 ### 📚 Currently Learning  
-Exploring **Autonomous AI Agents**, **Vector Databases**, and **multi-modal LLM frameworks** to enhance contextual reasoning and decision-making in real time.  
 
+<p align="left">
+Exploring **Autonomous AI Agents**, **Vector Databases**, and **multi-modal LLM frameworks** to enhance contextual reasoning and decision-making in real time.  
+<br><br>
 📫 **How to reach me:**  
 Send a phoenix if you're feeling medieval — but **Email works best!** 😄  
 📧 **harsh.joshi.m07@gmail.com**
+</p>
+
 <p align="right">
   <img alt="coding" width="250" height="200" src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
 </p>
