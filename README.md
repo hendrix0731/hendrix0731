@@ -31,9 +31,11 @@ I love blending technology and logic to build next-gen applications powered by *
     <img src="https://github-profile-trophy.vercel.app/?username=hendrix0731&theme=onestar&margin-w=10&margin-h=10&no-frame=true" alt="hendrix0731 trophies" />
   </a> 
 </p>
-<br>
-<br>
-<img align="right" alt="coding" width="250" height="200" src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
+<div style="margin-top: 40px;"></div>
+
+<p align="right">
+  <img alt="coding" width="250" height="200" src="https://github.com/hendrix0731/hendrix0731/blob/main/Hendrix.gif">
+</p>
 
 ---
 
